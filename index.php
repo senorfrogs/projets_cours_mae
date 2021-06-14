@@ -7,7 +7,7 @@
     <title>
       Projet cours mae
     </title>
-    <meta name="description" content="" />
+    <meta name="description" content="beaucoup de chose a raconter pour google" />
     <meta name="keywords" content="" />
     <meta name="author" content="" />
     <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" />
@@ -77,7 +77,7 @@
         </div>
         <!--Right Col-->
         <div class="w-full md:w-3/5 py-6 text-center z-40">
-          <img class="w-full md:w-4/5 z-50" src="images/hero.jpg"/>
+          <img class="w-full md:w-4/5 z-50"  height="100" width="100" src="images/hero.jpg" alt="hero"/>
         </div>
       </div>
     </div>
